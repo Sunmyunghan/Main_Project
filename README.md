@@ -43,6 +43,7 @@ https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2009_001
 
 ## 모델링
 ### Maximal Covering Location Problem(MCLP)
+(https://github.com/cyang-kth/maximum-coverage-location)
 <img src="https://user-images.githubusercontent.com/89237880/152676985-24b13841-718c-472d-a05c-131e21fa058f.png" width="200" height="200"/>
 
 - MCLP는 최대지역커버문제로 Mixed Integer Linear Programming 문제
