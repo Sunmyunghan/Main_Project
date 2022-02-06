@@ -11,6 +11,11 @@
 (광양시)전기자동차 충전소 최적입지 선정
 https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2009_001
 
+## 설치 모듈
+- geopandas (https://geopandas.org/en/stable/index.html)
+- folium (https://python-visualization.github.io/folium/)
+- tensorflow (https://www.tensorflow.org/?hl=ko)
+- pydeck(https://deckgl.readthedocs.io/en/latest/)
 
 ## 분석 배경
 - 전기차 시장의 증가 상황(현재 13만 4962대 -> 2030년 300만대로 10년뒤 22배 이상으로 전망)
